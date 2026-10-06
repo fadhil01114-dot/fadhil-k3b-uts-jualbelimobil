@@ -1,0 +1,6 @@
+{
+  "name": "AutoBekas - Marketplace Mobil Bekas Terpercaya",
+  "description": "Marketplace jual beli mobil bekas berkualitas dengan pencarian lokasi terintegrasi, filter harga, keranjang booking, panel admin kelola stok, approval pembayaran, dan laporan sales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
